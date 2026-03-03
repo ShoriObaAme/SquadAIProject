@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Maps/Sandboxing/Sandboxing.umap",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Blueprints/BP_CharacterBase.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Core/GI_GameInstance.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Core/GM_GameMode.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Core/PC_PlayerController.uasset"
+			]
+		}
+	]
+}
