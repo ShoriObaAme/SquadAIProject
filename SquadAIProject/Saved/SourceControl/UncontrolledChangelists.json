@@ -10,7 +10,16 @@
 				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Blueprints/BP_CharacterBase.uasset",
 				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Core/GI_GameInstance.uasset",
 				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Core/GM_GameMode.uasset",
-				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Core/PC_PlayerController.uasset"
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Core/PC_PlayerController.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Input/InputActions/Player/IA_Look.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Input/InputMappingContexts/IMC_Player.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Input/InputActions/Player/IA_Jump.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Characters/Player/BP_PlayerBase.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Input/InputActions/Player/IA_Movement.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Characters/Player/GM_GameModeMain.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Characters/Player/PC_PlayerController.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Blueprints/Gameplay/Formations/E_Formations.uasset",
+				"C:/Users/Fank6/Documents/Unreal Projects/SquadAIProject/SquadAIProject/Content/Project/Blueprints/Interfaces/I_Damageable.uasset"
 			]
 		}
 	]
